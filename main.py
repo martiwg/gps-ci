@@ -16,7 +16,7 @@ def main():
     if opcio == "1":
         print(transform.to_upper_case(string))
     elif opcio == "2":
-        print(string)
+        print(string + 'h')
     # elif opcio == "3":
     #     print(transform.to_capitalize(string))
     else:
